@@ -1,0 +1,57 @@
+.bodyFull{
+    background-color: rgb(211, 77, 99);
+}
+.intro{
+    color:rgb(233, 139, 178);
+    text-align: center;
+    font-style: oblique;
+    
+    
+}
+.catPhotos{
+    color: palevioletred;
+    font-style: normal;
+    background-color: whitesmoke;
+    text-align: center;
+    font-style: normal;
+    border-radius: 25px;
+    padding: 10px;
+}
+.aliBubbins{
+    background-color: rgb(194, 92, 92);
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    white-space: nowrap;
+
+}
+.dewey{
+    background-color: rgb(176, 104, 204);
+    color: whitesmoke;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+.elfine{
+    background-color: rgb(226, 223, 59);
+    color: whitesmoke;
+    font-family: cursive;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    
+}
+.mayBae{
+    background-color: rgb(86, 190, 216);
+    color: whitesmoke;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
